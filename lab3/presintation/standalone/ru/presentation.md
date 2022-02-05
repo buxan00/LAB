@@ -3,7 +3,7 @@
 lang: ru-RU
 title: Лабораторная работа №3
 author: |
-	Александр Усов
+	Алескеров Тимур
 institute: |
 	 RUDN University, Moscow, Russian Federation
 date: Сентябрь, 2021 Москва
