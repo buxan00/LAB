@@ -3,7 +3,7 @@
 lang: ru-RU
 title: Лабораторная работа №8
 author: |
-	Александр Усов
+	Алескеров Тимур
 institute: |
 	 RUDN University, Moscow, Russian Federation
 date: Декабрь, 2021 Москва
